@@ -1,4 +1,4 @@
-# React + Vite
+# Knowledge Bookstore
 
 Work in progress:
 
