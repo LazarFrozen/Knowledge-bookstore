@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply font-jost text-fontPrimary;
+  }
+}
+
+@layer components {
+  .navLinks {
+    @apply px-4 text-xl hover:text-secondaryColor;
+  }
+  .navIcons {
+    @apply text-4xl text-secondaryColor;
+  }
+}
